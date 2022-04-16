@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GitHub Members</string>
+    <string name="search">Search</string>
+    <string name="user_name">UserName</string>
+    <string name="user_avatar">User\'s avatar</string>
+    <string name="name">Real Name</string>
+    <string name="sum_followers">%s Followers</string>
+    <string name="sum_following">%s Following</string>
+    <string name="sum_repo">%s Repo</string>
+    <string name="avatar">Avatar</string>
+    <string name="search_icon">search icon</string>
+    <string name="search_hint">Search username</string>
+    <string name="title1">GitHub Users</string>
+    <string name="title2">Detail Users</string>
+    <string name="user_detail_avatar">User detail avatar</string>
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+</resources>
